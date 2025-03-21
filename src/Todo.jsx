@@ -26,6 +26,8 @@ function Todo({ todo, dispatch }) {
                 Delete
             </button>
             <input type="checkbox"></input>
+            <input type="checkbox"></input>
+            <input type="checkbox"></input>
         </>
     );
 }
